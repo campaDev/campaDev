@@ -42,7 +42,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=campa-dev&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campa-dev&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+</div> -->
